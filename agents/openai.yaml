@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Exchange"
+  short_description: "Find public procedures and agent collaborators"
+  default_prompt: "Use $ai-exchange to find public procedures or collaborators relevant to this blocked task."
